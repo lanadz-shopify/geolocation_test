@@ -13,4 +13,4 @@
 * Database initialization general
 
 
-This simple project to test how <a href="https://github.com/guyisra/geocomplete_rails">geocomplete_rails</a> works.
+This simple project to test how [geocomplete_rails](https://github.com/guyisra/geocomplete_rails) works.
